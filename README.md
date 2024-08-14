@@ -8,7 +8,7 @@
 
 1. Клонировать репозиторий:
     ```bash
-    git clone <URL репозитория>
+    git clone roman2959/guest-microservice
     cd guest-microservice
     ```
 
